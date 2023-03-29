@@ -7,7 +7,7 @@ const connection = () => {
           database: 'qubit-parking',
           username: 'Sebastian Gaspar',
           password: 'MAKseb1818',
-          host: 'postgresql-16907-0.cloudclusters.net',
+          host: '209.209.40.84',
           port: 16907,
           dialect: "postgres",
           dialectOptions: {
